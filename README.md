@@ -19,7 +19,9 @@ This Python-based Notes Summarizer with AI & OCR allows users to extract text fr
 6️⃣ Save the final image for easy reference and study.
 
 📸 Screenshots
-(Add screenshots here of the UI, extracted text, and final combined image.)
+![temp_text_image](https://github.com/user-attachments/assets/b7a506d2-4bd1-406c-ae9f-9f59c5e57759)
+the above summary is of an error i encountered in the process of devoloping this app
+
 
 🛠️ Installation
 🔹 Prerequisites
